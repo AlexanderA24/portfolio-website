@@ -21,7 +21,7 @@ div {
 
 p {
   font-family: var(--primary-family);
-  font-size: 12px;
+  font-size: 14px;
 }
 
 a {
@@ -249,4 +249,9 @@ p.about {
 
 .sun {
   animation: 4s color-change infinite alternate linear;
+}
+
+.contact-form {
+  display: flex;
+  justify-content: center;
 }

@@ -20,7 +20,7 @@ div {
 
 p {
   font-family: "Montserrat", sans-serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 a {
@@ -326,4 +326,9 @@ p.about {
 .sun {
   -webkit-animation: 4s color-change infinite alternate linear;
   animation: 4s color-change infinite alternate linear;
+}
+
+.contact-form {
+  display: flex;
+  justify-content: center;
 }
